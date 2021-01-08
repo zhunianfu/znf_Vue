@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 28,
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "'Fira Code Bold',",
+    "editor.fontWeight": "bold",
+    "python.pythonPath": "/home/znf/python/env/bin/python3.8",
+    "editor.wordWrap":"on",
+    "python.formatting.provider": "autopep8",
+
+}
